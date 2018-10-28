@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Alien Resurrection';
+    src: url('AlienResurrection.woff') format('woff'),
+        url('AlienResurrection.ttf') format('truetype'),
+        url('AlienResurrection.svg#AlienResurrection') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

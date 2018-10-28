@@ -1,0 +1,14 @@
+<svg focusable="false" height="100%" width="100%" xmlns="http://www.w3.org/2000/svg" class="circleSvg" style="display: inline;">
+<defs>
+<mask id="H7Uf-m1">
+<image xlink:href="/res/images/horizon/common/frontdoor/brands/momondo/hero_flights_mask.jpg?v=60353b455150e9ee741ac9d283d46ce320656c39&amp;cluster=5" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid slice" height="100%" width="100%"/>
+<rect fill="url(#H7Uf-g1)" height="100%" width="100%"/>
+</mask>
+<linearGradient id="H7Uf-g1" gradientTransform="rotate(90)">
+<stop stop-opacity="0" offset="0.5"/>
+<stop offset="0.72" stop-opacity="0.8" offset.one-way="0.72"/>
+<stop offset="0.85" stop-opacity="1" offset.one-way="0.85"/>
+</linearGradient>
+</defs>
+<image mask="url(#H7Uf-m1)" xlink:href="/res/images/horizon/common/frontdoor/brands/momondo/flights-bg.jpg?v=4da0b0bcf1bf6a7e7f10209a914bdb74b3795b5c&amp;cluster=5" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid slice" height="100%" width="100%"/>
+</svg>
